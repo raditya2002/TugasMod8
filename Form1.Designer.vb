@@ -51,18 +51,20 @@ Partial Class Form1
         '
         'CtoR
         '
-        Me.CtoR.Location = New System.Drawing.Point(218, 320)
+        Me.CtoR.Location = New System.Drawing.Point(15, 85)
+        Me.CtoR.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.CtoR.Name = "CtoR"
-        Me.CtoR.Size = New System.Drawing.Size(75, 23)
+        Me.CtoR.Size = New System.Drawing.Size(56, 19)
         Me.CtoR.TabIndex = 0
         Me.CtoR.Text = "C to R"
         Me.CtoR.UseVisualStyleBackColor = True
         '
         'CtoF
         '
-        Me.CtoF.Location = New System.Drawing.Point(218, 358)
+        Me.CtoF.Location = New System.Drawing.Point(75, 108)
+        Me.CtoF.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.CtoF.Name = "CtoF"
-        Me.CtoF.Size = New System.Drawing.Size(75, 23)
+        Me.CtoF.Size = New System.Drawing.Size(56, 19)
         Me.CtoF.TabIndex = 1
         Me.CtoF.Text = "C to F"
         Me.CtoF.UseVisualStyleBackColor = True
@@ -70,224 +72,242 @@ Partial Class Form1
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(325, 255)
+        Me.TextBox1.Location = New System.Drawing.Point(15, 47)
+        Me.TextBox1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(186, 27)
+        Me.TextBox1.Size = New System.Drawing.Size(140, 23)
         Me.TextBox1.TabIndex = 2
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(275, 194)
+        Me.Label1.Location = New System.Drawing.Point(11, 9)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(318, 29)
+        Me.Label1.Size = New System.Drawing.Size(313, 24)
         Me.Label1.TabIndex = 4
-        Me.Label1.Text = "APLIKASI KONVERSI SUHU"
+        Me.Label1.Text = "Tugas Mod 8 RPLBK Konversi Suhu"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(27, 25)
+        Me.Label2.Location = New System.Drawing.Point(11, 197)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(217, 25)
+        Me.Label2.Size = New System.Drawing.Size(174, 20)
         Me.Label2.TabIndex = 5
-        Me.Label2.Text = "Anggota Kelompok 21 :"
+        Me.Label2.Text = "Anggota Kelompok 23 :"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(28, 65)
+        Me.Label3.Location = New System.Drawing.Point(12, 230)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(184, 20)
+        Me.Label3.Size = New System.Drawing.Size(89, 17)
         Me.Label3.TabIndex = 6
-        Me.Label3.Text = "Kenza Vianda Dwiputra"
+        Me.Label3.Text = "Joane Eva D"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(28, 98)
+        Me.Label5.Location = New System.Drawing.Point(12, 247)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(180, 20)
+        Me.Label5.Size = New System.Drawing.Size(130, 17)
         Me.Label5.TabIndex = 8
-        Me.Label5.Text = "M. Yahya Oktariansyah"
+        Me.Label5.Text = "Ahmad Raditya AW"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(28, 133)
+        Me.Label6.Location = New System.Drawing.Point(12, 264)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(123, 20)
+        Me.Label6.Size = New System.Drawing.Size(99, 17)
         Me.Label6.TabIndex = 9
-        Me.Label6.Text = "M. Fachru Razi"
+        Me.Label6.Text = "M Rofiul Anam"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(28, 167)
+        Me.Label7.Location = New System.Drawing.Point(13, 281)
+        Me.Label7.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(106, 20)
+        Me.Label7.Size = New System.Drawing.Size(98, 17)
         Me.Label7.TabIndex = 10
-        Me.Label7.Text = "Novita Auliya"
+        Me.Label7.Text = "Dimsa Mutiara"
         '
         'Label4
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(526, 25)
+        Me.Label4.Location = New System.Drawing.Point(394, 20)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(125, 25)
+        Me.Label4.Size = New System.Drawing.Size(0, 20)
         Me.Label4.TabIndex = 11
-        Me.Label4.Text = "Keterangan :"
         '
         'Label8
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(585, 65)
+        Me.Label8.Location = New System.Drawing.Point(439, 53)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(97, 20)
+        Me.Label8.Size = New System.Drawing.Size(0, 17)
         Me.Label8.TabIndex = 12
-        Me.Label8.Text = "C = Celcius"
         '
         'Label9
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(699, 65)
+        Me.Label9.Location = New System.Drawing.Point(524, 53)
+        Me.Label9.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(118, 20)
+        Me.Label9.Size = New System.Drawing.Size(0, 17)
         Me.Label9.TabIndex = 13
-        Me.Label9.Text = "F = Fahrenheit"
         '
         'Label10
         '
         Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(86, 194)
+        Me.Label10.Location = New System.Drawing.Point(64, 158)
+        Me.Label10.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(0, 16)
+        Me.Label10.Size = New System.Drawing.Size(0, 13)
         Me.Label10.TabIndex = 14
         '
         'Label11
         '
         Me.Label11.AutoSize = True
         Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(383, 65)
+        Me.Label11.Location = New System.Drawing.Point(287, 53)
+        Me.Label11.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(105, 20)
+        Me.Label11.Size = New System.Drawing.Size(0, 17)
         Me.Label11.TabIndex = 15
-        Me.Label11.Text = " R = Reamur"
         '
         'Label12
         '
         Me.Label12.AutoSize = True
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(494, 65)
+        Me.Label12.Location = New System.Drawing.Point(370, 53)
+        Me.Label12.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(85, 20)
+        Me.Label12.Size = New System.Drawing.Size(0, 17)
         Me.Label12.TabIndex = 16
-        Me.Label12.Text = "K = Kelvin"
         '
         'CtoK
         '
-        Me.CtoK.Location = New System.Drawing.Point(218, 397)
+        Me.CtoK.Location = New System.Drawing.Point(135, 131)
+        Me.CtoK.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.CtoK.Name = "CtoK"
-        Me.CtoK.Size = New System.Drawing.Size(75, 23)
+        Me.CtoK.Size = New System.Drawing.Size(56, 19)
         Me.CtoK.TabIndex = 17
         Me.CtoK.Text = "C to K"
         Me.CtoK.UseVisualStyleBackColor = True
         '
         'RtoC
         '
-        Me.RtoC.Location = New System.Drawing.Point(325, 320)
+        Me.RtoC.Location = New System.Drawing.Point(75, 85)
+        Me.RtoC.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.RtoC.Name = "RtoC"
-        Me.RtoC.Size = New System.Drawing.Size(75, 23)
+        Me.RtoC.Size = New System.Drawing.Size(56, 19)
         Me.RtoC.TabIndex = 18
         Me.RtoC.Text = "R to C"
         Me.RtoC.UseVisualStyleBackColor = True
         '
         'RtoF
         '
-        Me.RtoF.Location = New System.Drawing.Point(325, 358)
+        Me.RtoF.Location = New System.Drawing.Point(135, 108)
+        Me.RtoF.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.RtoF.Name = "RtoF"
-        Me.RtoF.Size = New System.Drawing.Size(75, 23)
+        Me.RtoF.Size = New System.Drawing.Size(56, 19)
         Me.RtoF.TabIndex = 19
         Me.RtoF.Text = "R to F"
         Me.RtoF.UseVisualStyleBackColor = True
         '
         'RtoK
         '
-        Me.RtoK.Location = New System.Drawing.Point(325, 397)
+        Me.RtoK.Location = New System.Drawing.Point(15, 154)
+        Me.RtoK.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.RtoK.Name = "RtoK"
-        Me.RtoK.Size = New System.Drawing.Size(75, 23)
+        Me.RtoK.Size = New System.Drawing.Size(56, 19)
         Me.RtoK.TabIndex = 20
         Me.RtoK.Text = "R to K"
         Me.RtoK.UseVisualStyleBackColor = True
         '
         'FtoC
         '
-        Me.FtoC.Location = New System.Drawing.Point(436, 397)
+        Me.FtoC.Location = New System.Drawing.Point(75, 154)
+        Me.FtoC.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.FtoC.Name = "FtoC"
-        Me.FtoC.Size = New System.Drawing.Size(75, 23)
+        Me.FtoC.Size = New System.Drawing.Size(56, 19)
         Me.FtoC.TabIndex = 21
         Me.FtoC.Text = "F to C"
         Me.FtoC.UseVisualStyleBackColor = True
         '
         'FtoR
         '
-        Me.FtoR.Location = New System.Drawing.Point(436, 358)
+        Me.FtoR.Location = New System.Drawing.Point(15, 131)
+        Me.FtoR.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.FtoR.Name = "FtoR"
-        Me.FtoR.Size = New System.Drawing.Size(75, 23)
+        Me.FtoR.Size = New System.Drawing.Size(56, 19)
         Me.FtoR.TabIndex = 22
         Me.FtoR.Text = "F to R"
         Me.FtoR.UseVisualStyleBackColor = True
         '
         'FtoK
         '
-        Me.FtoK.Location = New System.Drawing.Point(436, 320)
+        Me.FtoK.Location = New System.Drawing.Point(135, 85)
+        Me.FtoK.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.FtoK.Name = "FtoK"
-        Me.FtoK.Size = New System.Drawing.Size(75, 23)
+        Me.FtoK.Size = New System.Drawing.Size(56, 19)
         Me.FtoK.TabIndex = 23
         Me.FtoK.Text = "F to K"
         Me.FtoK.UseVisualStyleBackColor = True
         '
         'KtoR
         '
-        Me.KtoR.Location = New System.Drawing.Point(548, 320)
+        Me.KtoR.Location = New System.Drawing.Point(15, 108)
+        Me.KtoR.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.KtoR.Name = "KtoR"
-        Me.KtoR.Size = New System.Drawing.Size(75, 23)
+        Me.KtoR.Size = New System.Drawing.Size(56, 19)
         Me.KtoR.TabIndex = 24
         Me.KtoR.Text = "K to R"
         Me.KtoR.UseVisualStyleBackColor = True
         '
         'KtoC
         '
-        Me.KtoC.Location = New System.Drawing.Point(548, 397)
+        Me.KtoC.Location = New System.Drawing.Point(135, 154)
+        Me.KtoC.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.KtoC.Name = "KtoC"
-        Me.KtoC.Size = New System.Drawing.Size(75, 23)
+        Me.KtoC.Size = New System.Drawing.Size(56, 19)
         Me.KtoC.TabIndex = 25
         Me.KtoC.Text = "K to C"
         Me.KtoC.UseVisualStyleBackColor = True
         '
         'KtoF
         '
-        Me.KtoF.Location = New System.Drawing.Point(548, 358)
+        Me.KtoF.Location = New System.Drawing.Point(75, 131)
+        Me.KtoF.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.KtoF.Name = "KtoF"
-        Me.KtoF.Size = New System.Drawing.Size(75, 23)
+        Me.KtoF.Size = New System.Drawing.Size(56, 19)
         Me.KtoF.TabIndex = 26
         Me.KtoF.Text = "K to F"
         Me.KtoF.UseVisualStyleBackColor = True
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(840, 450)
+        Me.ClientSize = New System.Drawing.Size(630, 366)
         Me.Controls.Add(Me.KtoF)
         Me.Controls.Add(Me.KtoC)
         Me.Controls.Add(Me.KtoR)
@@ -313,6 +333,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.CtoF)
         Me.Controls.Add(Me.CtoR)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Form1"
         Me.Text = "S"
         Me.ResumeLayout(False)

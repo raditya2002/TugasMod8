@@ -1,0 +1,15 @@
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\GUIGUIGUI.exe.config
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\GUIGUIGUI.exe
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\GUIGUIGUI.pdb
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\GUIGUIGUI.xml
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\TempConv.dll
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\bin\Debug\TempConv.pdb
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUI_TugasMod8.vbproj.AssemblyReference.cache
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUIGUIGUI.Form1.resources
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUIGUIGUI.Resources.resources
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUI_TugasMod8.vbproj.GenerateResource.cache
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUI_TugasMod8.vbproj.CoreCompileInputs.cache
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUI_TugasMod8.vbproj.CopyComplete
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUIGUIGUI.exe
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUIGUIGUI.xml
+D:\Ahmad Raditya\Semester 7\Praktikum RPLBK\Modul 8\GUI TUGAS MOD 8\GUI_TugasMod8\obj\Debug\GUIGUIGUI.pdb

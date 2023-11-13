@@ -23,7 +23,7 @@ Public Class Form1
         c = CDbl(TextBox1.Text)
 
         TextBox1.Text = objConv.cToReamur(c)
-        Label1.Text = "Ini Celcius Ke Reamur"
+        Label1.Text = "Konversi Celcius Ke Reamur"
 
     End Sub
 
@@ -38,7 +38,7 @@ Public Class Form1
         c = CDbl(TextBox1.Text)
 
         TextBox1.Text = objConv.cToF(c)
-        Label1.Text = "Ini Celcius Ke Kelvin"
+        Label1.Text = "Konversi Celcius Ke Kelvin"
 
     End Sub
 
@@ -64,7 +64,7 @@ Public Class Form1
         reamur = CDbl(TextBox1.Text)
 
         TextBox1.Text = objConv.reamurToC(reamur)
-        Label1.Text = "Ini Reamur Ke Celcius"
+        Label1.Text = "Konversi Reamur Ke Celcius"
 
     End Sub
 
@@ -77,7 +77,7 @@ Public Class Form1
         reamur = CDbl(TextBox1.Text)
 
         TextBox1.Text = objConv.reamurToF(reamur)
-        Label1.Text = "Ini Reamur Ke Fahreinheit"
+        Label1.Text = "Konversi Reamur Ke Fahreinheit"
 
     End Sub
 
@@ -88,7 +88,7 @@ Public Class Form1
         Dim reamur As Double
         reamur = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.reamurToKelvin(reamur)
-        Label1.Text = "Ini Reamur Ke Kelvin"
+        Label1.Text = "Konversi Reamur Ke Kelvin"
     End Sub
 
     Private Sub button7_Click(sender As Object, e As EventArgs) Handles FtoC.Click
@@ -98,7 +98,7 @@ Public Class Form1
         Dim f As Double
         f = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.fToC(f)
-        Label1.Text = "Ini Fahreinheit Ke Celcius"
+        Label1.Text = "Konversi Fahreinheit Ke Celcius"
     End Sub
 
     Private Sub button8_Click(sender As Object, e As EventArgs) Handles FtoR.Click
@@ -108,7 +108,7 @@ Public Class Form1
         Dim f As Double
         f = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.fToReamur(f)
-        Label1.Text = "Ini Fahreinheit Ke Reamur"
+        Label1.Text = "cFahreinheit Ke Reamur"
     End Sub
 
     Private Sub button9_Click(sender As Object, e As EventArgs) Handles FtoK.Click
@@ -118,7 +118,7 @@ Public Class Form1
         Dim f As Double
         f = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.fToKelvin(f)
-        Label1.Text = "Ini Fahreinheit Ke Kelvin"
+        Label1.Text = "Konversi Fahreinheit Ke Kelvin"
     End Sub
 
     Private Sub button10_Click(sender As Object, e As EventArgs) Handles KtoC.Click
@@ -128,7 +128,7 @@ Public Class Form1
         Dim kelvin As Double
         kelvin = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.kelvinToC(kelvin)
-        Label1.Text = "Ini Kelvin Ke Celcius"
+        Label1.Text = "Konversi Kelvin Ke Celcius"
     End Sub
 
     Private Sub button11_Click(sender As Object, e As EventArgs) Handles KtoR.Click
@@ -138,7 +138,7 @@ Public Class Form1
         Dim kelvin As Double
         kelvin = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.kelvinToC(kelvin)
-        Label1.Text = "Ini Kelvin Ke Reamur"
+        Label1.Text = "Konversi Kelvin Ke Reamur"
     End Sub
 
     Private Sub button12_Click(sender As Object, e As EventArgs) Handles KtoF.Click
@@ -148,7 +148,7 @@ Public Class Form1
         Dim kelvin As Double
         kelvin = CDbl(TextBox1.Text)
         TextBox1.Text = objConv.kelvinToF(kelvin)
-        Label1.Text = "Ini Kelvin Ke Fahrenheit"
+        Label1.Text = "Konversi Kelvin Ke Fahrenheit"
     End Sub
 
 
@@ -162,6 +162,14 @@ Public Class Form1
     End Sub
 
     Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+
+    End Sub
+
+    Private Sub Label7_Click(sender As Object, e As EventArgs) Handles Label7.Click
+
+    End Sub
+
+    Private Sub Label12_Click(sender As Object, e As EventArgs) Handles Label12.Click
 
     End Sub
 End Class
